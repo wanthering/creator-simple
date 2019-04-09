@@ -1,0 +1,19 @@
+{
+  "name": "vue-creator-simple",
+  "version": "1.0.0",
+  "description": "a simple vue-creator",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "wanthering",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^23.6.0",
+    "memfs": "^2.15.2"
+  },
+  "dependencies": {
+    "inquirer": "^6.2.2",
+    "root-config": "^1.0.2"
+  }
+}
