@@ -14,6 +14,6 @@
   },
   "dependencies": {
     "inquirer": "^6.2.2",
-    "root-config": "^1.0.2"
+    "root-config": "^1.0.3"
   }
 }
